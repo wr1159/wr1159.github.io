@@ -1,0 +1,33 @@
+body{
+    margin: 60px auto; 
+    font-size: 20px;
+    max-width: 750px;
+
+}
+a:link, a:visited{
+    color:#791717;
+}
+div{
+    margin: 50px 0;
+}
+h1,h2, h3{
+    margin: 10px 0;
+}
+h1{
+    font-size: 48px;
+    text-align: center;
+}
+.subheading{
+    font-size: 16px;
+    font-style: oblique;
+    text-align: center;
+
+}
+ul{
+    padding-left: 1em;
+    display: block;
+    text-align: left;
+}
+div{
+    display: block;
+}
